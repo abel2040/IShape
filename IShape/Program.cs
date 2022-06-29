@@ -6,10 +6,11 @@ using System.Threading.Tasks;
 
 namespace IShape
 {
-    internal class Program
+    internal class Abstraction
     {
-        static void Main(string[] args)
-        {
-        }
-    }
+
+
+
+          }
+    
 }
